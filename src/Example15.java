@@ -13,16 +13,16 @@ public class Example15 {
         } else {
             if (mark < 5) {
                 System.out.println("Insuficiente");
-            }else {
+            } else {
                 if (mark < 6) {
                     System.out.println("Suficiente");
-                }else {
+                } else {
                     if (mark < 7) {
                         System.out.println("Bien");
-                    }else {
+                    } else {
                         if (mark < 9) {
                             System.out.println("Notable");
-                        }else {
+                        } else {
                             System.out.println("Sobresaliente");
                         }
                     }
